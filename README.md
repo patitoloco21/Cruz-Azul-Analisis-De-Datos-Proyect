@@ -102,11 +102,6 @@ pip install undetected-chromedriver pandas matplotlib seaborn beautifulsoup4
 # 3. Abrir el notebook
 jupyter notebook cruz_azul_2026.ipynb
 
-👤 PatitoLoco21
-
-
-👤 PatitoLoco21
-
 
 -> Nota: Al ejecutar el scraping se abrirá una ventana de Chrome visible. No la cierres — es necesaria para pasar la validación de Cloudflare.
 
